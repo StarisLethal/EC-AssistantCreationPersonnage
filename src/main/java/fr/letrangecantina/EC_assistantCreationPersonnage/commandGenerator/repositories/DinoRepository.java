@@ -1,6 +1,6 @@
-package fr.letrangecantina.EC_assistantCreationPersonnage.repositories;
+package fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.repositories;
 
-import fr.letrangecantina.EC_assistantCreationPersonnage.model.Dino;
+import fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.model.Dino;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package fr.letrangecantina.EC_assistantCreationPersonnage.model;
+package fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.model;
 
 import jakarta.persistence.*;
 import lombok.*;

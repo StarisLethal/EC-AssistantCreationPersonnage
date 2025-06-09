@@ -1,6 +1,6 @@
-package fr.letrangecantina.EC_assistantCreationPersonnage.repositories;
+package fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.repositories;
 
-import fr.letrangecantina.EC_assistantCreationPersonnage.model.Saddle;
+import fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.model.Saddle;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package fr.letrangecantina.EC_assistantCreationPersonnage.service;
+package fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.service;
 
-import fr.letrangecantina.EC_assistantCreationPersonnage.DTO.SpawnExactDinoDTO;
-import fr.letrangecantina.EC_assistantCreationPersonnage.model.SpawnExactDino;
+import fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.DTO.SpawnExactDinoDTO;
+import fr.letrangecantina.EC_assistantCreationPersonnage.commandGenerator.model.SpawnExactDino;
 import org.springframework.stereotype.Service;
 
 @Service
